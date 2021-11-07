@@ -1,5 +1,6 @@
 #include <iostream>
-int main(int argc, char** ergv) {
+
+int main(int argc, char** argv) {
     char nome[30];
     char endereco[30];
     int idade; 
