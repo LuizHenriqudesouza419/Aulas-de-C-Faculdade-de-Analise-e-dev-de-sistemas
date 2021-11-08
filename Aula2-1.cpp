@@ -1,5 +1,5 @@
 #include <iostream>
-
+// CALCULO SALARIAL
 int main(int argc, char** argv) {
     float salario, inss, ir, sal_liquido;
 

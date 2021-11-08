@@ -1,5 +1,5 @@
 #include <iostream>
-
+// NOME ENDEREÇO IDADE 
 int main(int argc, char** argv) {
     char nome[30];
     char endereco[30];

@@ -1,4 +1,5 @@
 #include <iostream>
+// MEDIA DO ALUNO 
 
 int main(int argc, char** argv) {
     float nota1;

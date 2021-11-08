@@ -1,5 +1,5 @@
 #include <iostream>
-
+//CONTADOR 
 int main (int argc, char** argv){
     int contador;
 
