@@ -12,7 +12,7 @@ int main(int argc, char** argv) {
     scanf("%s", &endereco);
 
     printf("Idade");
-    scanf("%d",&idade);
+    scanf("%d",&idade); 
 
     printf("\n nome: %s",nome);
     printf("\n Endereco: %s",endereco);
